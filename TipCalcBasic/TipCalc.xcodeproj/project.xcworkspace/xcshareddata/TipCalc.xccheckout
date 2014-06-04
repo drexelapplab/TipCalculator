@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>833857F6-F418-452F-8434-4F6CAA262262</string>
+	<string>85929FF2-FB91-49E1-8F59-13B72DF427D3</string>
 	<key>IDESourceControlProjectName</key>
 	<string>TipCalc</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>604F9845-0768-47CF-BBE4-AE890A27015C</key>
+		<key>0EA49D99-360C-42A6-9424-4BC9ABD91A87</key>
 		<string>https://github.com/drexelapplab/TipCalculator.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TipCalc.xcodeproj/project.xcworkspace</string>
+	<string>TipCalcBasic/TipCalc.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>604F9845-0768-47CF-BBE4-AE890A27015C</key>
-		<string>../..</string>
+		<key>0EA49D99-360C-42A6-9424-4BC9ABD91A87</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/drexelapplab/TipCalculator.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>604F9845-0768-47CF-BBE4-AE890A27015C</string>
+	<string>0EA49D99-360C-42A6-9424-4BC9ABD91A87</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>604F9845-0768-47CF-BBE4-AE890A27015C</string>
+			<string>0EA49D99-360C-42A6-9424-4BC9ABD91A87</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TipCalculator</string>
 		</dict>

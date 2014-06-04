@@ -11,17 +11,12 @@
 @interface ViewController : UIViewController
 {
     IBOutlet UILabel* tipLabel;
-    IBOutlet UILabel* percentLabel;
     IBOutlet UILabel* totalLabel;
-    IBOutlet UISlider* slider;
     IBOutlet UITextField* billAmountField;
+    
 }
 
 -(IBAction)tipPressed:(id)sender;
--(IBAction)tipSlider:(id)sender;
--(float)calculateTip:(float)billAmount withTip:(float)tipPercent;
--(void)fixBillAmount;
--(IBAction)textFieldReturn:(id)sender;
--(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event;
+-(float)calculateTip:(float)billAmount withTip:(int)tipPercent;
 
 @end
