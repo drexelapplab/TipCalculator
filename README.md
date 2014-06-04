@@ -17,8 +17,11 @@ Functionality:
 In this app, the user inputs the amount of their bill. They then select a tip amount, and the tip and the new total are calculated.
 
 Elements:
+
 5x UILabel
+
 4x UIButton
+
 1x UITextField
 
 
@@ -35,7 +38,11 @@ Functionality:
 In this app, the user inputs the amount of their bill. The value must be a valid number (no negatives or non-numeric characters), or it will revert to $0.00. They may then select a tip amount via a button press or use of the slider. Once selected, the tip and new total are calculated and posted for the user.
 
 Elements:
+
 11x UILabel
+
 4x UIButton
+
 1x UITextField
+
 1x UISlider
